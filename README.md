@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi!👋 This is my personal GitHub profile. 
+
+I am also the owner of this academic profile: [Richard-03](https://github.com/Richard-03).
+
+### 🎓 University Projects
+* **[JPEG-AI-deepfake-detection](https://github.com/CasuFrost/JPEG-AI-deepfake-detection)** – Developed for the Computer Vision course.
 
 <!--
 **Ric03aipy/Ric03aipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
